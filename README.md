@@ -6,7 +6,7 @@
 
 Some code testing the usability of WebAssembly for conversion plugins.
 
-use `make run` to build the app and plugin. and run the app which loads wasm file and calls a conversion function.
+`make run` will build the app and plugin and run the app, which loads the wasm file and calls a conversion function.
 
 Run `make help`
 
