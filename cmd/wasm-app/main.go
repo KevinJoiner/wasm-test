@@ -14,7 +14,7 @@ func main() {
 	manifest := extism.Manifest{
 		Wasm: []extism.Wasm{
 			extism.WasmFile{
-				Path: "./bin/app-name-plugin.wasm",
+				Path: "./bin/wasm-app-plugin.wasm",
 				Name: "main",
 			},
 		},
