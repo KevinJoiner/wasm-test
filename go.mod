@@ -3,7 +3,7 @@ module github.com/DIMO-Network/app-name
 go 1.22.0
 
 require (
-	github.com/DIMO-Network/model-garage v0.2.15
+	github.com/DIMO-Network/model-garage v0.2.16
 	github.com/extism/go-pdk v1.0.6
 	github.com/extism/go-sdk v1.3.1
 )
